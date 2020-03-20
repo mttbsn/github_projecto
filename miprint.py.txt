@@ -1,0 +1,2 @@
+det hola mundo():
+	print("hola mundo")
