@@ -63,7 +63,7 @@ class Aplicacion:
         self.labelResFahrenheit1.grid(column=30, row=8)
 
         self.labelResFahrenheit2=tk.Label(self.labelframe3, )
-        self.labelResFahrenheit2.grid(column=1, row=8)
+
 
         self.ventana1.mainloop()
 
